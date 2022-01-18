@@ -1,0 +1,66 @@
+body
+{
+	background-color: #232323;
+	margin: 0px;
+}
+h1
+{
+	background-color: darkslategrey;
+	color: lightgreen;
+	margin: 0px;
+	text-align: center;
+	padding: 20px 0px;
+}
+h2
+{
+	background-color: lightgreen;
+	color: forestgreen;
+	margin: 0px;
+	text-align: center;
+	padding: 10px 0px;
+}
+#msgDiv
+{
+	background-color: white;
+	padding: 10px 0px;
+	overflow: hidden;
+}
+button
+{
+	background: none;
+	border: none;
+	font-family: times new roman;
+	color: forestgreen;
+	font-size: 20px;
+	width: 50%;
+	text-align: center;
+	float: left;
+}
+#reset:hover
+{
+	background-color: darkslategrey;
+	color: white;
+}
+#message
+{
+	color: forestgreen;
+	font-size: 20px;
+	width: 50%;
+	text-align: center;
+	float: left;
+}
+#colors
+{
+	width: 50%;
+	margin: 10px auto;
+}
+.square
+{
+	width: 30%;
+	padding-bottom: 30%;
+	margin: 1.66%;
+	border-radius: 45px;
+	background-color: grey;	
+	float: left;
+	transition: 0.5s;
+}
