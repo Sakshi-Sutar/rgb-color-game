@@ -1,2 +1,1 @@
-# rgb-color-game
-RGB Color Game
+## rgb-color-game
